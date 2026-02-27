@@ -12,7 +12,7 @@
 This is a comprehensive **Cisco Packet Tracer network simulation** project featuring a router-based topology with multiple end devices. The network demonstrates basic routing concepts, IP addressing, and network connectivity between different subnets.
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400/005073/ffffff?text=🌐+NETWORK+SIMULATION+PROJECT+📡" alt="Network Simulation Banner">
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e37d2760-5c78-4213-8e90-8637d3ead20a" />
 </p>
 
 ---
